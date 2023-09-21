@@ -57,13 +57,13 @@ class _MainPageState extends State<MainPage> {
       child: Text('Hello word'),
     ),
     Center(
-      child: Text('FUCK word'),
+      child: Text('FUCK world'),
     ),
     Center(
-      child: Text('FUCK word'),
+      child: Text('FUCK world'),
     ),
     Center(
-      child: Text('FUCK word'),
+      child: Text('FUCK world'),
     ),
   ];
 }
