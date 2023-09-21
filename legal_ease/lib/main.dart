@@ -39,12 +39,9 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Utility(),
-      //initialRoute: Approutes.login,
-      //routes: Approutes.pages,
+      home: Login(),
+      initialRoute: Approutes.login,
+      routes: Approutes.pages,
     );
   }
 }
-
-
-
